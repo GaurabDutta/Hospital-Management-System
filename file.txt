@@ -1,0 +1,37 @@
+	Patient ID:1
+	Patient Name:Raju M
+
+	Ward Number:420
+	Gender:M
+	Age:22
+	Blood Group :B+
+	Patient ID:1
+	Patient Name:gaurab dutta
+
+	Ward Number:111
+	Gender:m
+	Age:12
+	Blood Group :b
+	Patient ID:2
+	Patient Name:raktim
+
+	Ward Number:222
+	Gender:m
+	Age:22
+	Blood Group :b
+	Patient ID:3
+	Patient Name:rumanshu nath
+
+	Ward Number:222
+	Gender:m
+	Age:23
+	Blood Group :b
+	Patient ID:4
+	Patient Name:Raju M
+
+	Ward Number:333
+	Gender:m
+	Age:23
+	Blood Group :b
+	Patient ID:5
+
